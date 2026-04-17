@@ -1,6 +1,6 @@
 <div align="center">
 
-# musab khan
+# Musab Khan
 
 **fullstack dev · india**
 *building things people actually use*
