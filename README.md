@@ -1,29 +1,70 @@
-<h1 align="center">Hi 👋, I'm Musab Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Dark minimal README — Musab Khan -->
+<div align="center">
 
+# musab khan
 
-- 🔭 I’m currently working on **Learning Management System**
+**frontend dev from india**
+*i write code more for people than for myself*
 
-- 🌱 I’m currently learning **rust, nextjs**
+currently building an education ecosystem & a professional network
 
-- 💬 Ask me about **react, java, nodejs, html, css, python, sql, mongodb**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 📫 How to reach me **musab05ahs@gmail.com**
+</div>
 
-- ⚡ Fun fact **I write code more for people than for myself**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/musabk05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musabk05" height="30" width="40" /></a>
-<a href="https://instagram.com/musabk__00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musabk__00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/musab2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="musab2209" height="30" width="40" /></a>
-</p>
+## 🚀 projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+| project | description | stack |
+|---|---|---|
+| **Academiq** | Full education ecosystem — public courses, LMS, institute management, team collaboration, live classrooms & meetings | React, Node.js, WebRTC, MongoDB |
+| **Threadly** | Professional networking with posts, jobs, recommendations, and map-based job discovery | React, PostgreSQL, Maps API |
+| **Blog Vista** | Blogging platform extended with video blogs | React, Node.js, MongoDB |
+| **Chat Bot** | Personal AI learning assistant — integrated into Academiq for in-context help | Python, LLM, React |
+| **Secure Share** | Rust CLI tool for encrypted peer-to-peer file sharing. Fast, minimal, no server | Rust, CLI |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musab05&show_icons=true&locale=en&layout=compact" alt="musab05" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musab05&show_icons=true&locale=en" alt="musab05" /></p>
+## 🗺️ roadmap
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musab05&" alt="musab05" /></p>
+- [x] Academiq — core LMS + live classroom shipped
+- [x] Threadly — posts, jobs & recommendations live
+- [ ] Academiq — meetings & scheduling *(in progress)*
+- [ ] Learning Rust — Secure Share v1 underway
+- [ ] Next.js migration for Academiq frontend
+- [ ] Threadly — mobile app
+- [ ] Open source Secure Share
+
+---
+
+## 🛠️ stack
+
+`react` `next.js` `node.js` `express` `rust` `python` `java` `mongodb` `postgresql` `firebase` `docker` `tailwind` `django` `aws`
+
+---
+
+> *"my code runs on caffeine and the irrational belief that it will work this time"* ☕
+>
+> fun fact: i build for people first, machines second. if it's not usable, it's not done.
+
+---
+
+## 📬 reach me
+
+[![Email](https://img.shields.io/badge/email-musab05ahs@gmail.com-black?style=flat)](mailto:musab05ahs@gmail.com)
+[![Twitter](https://img.shields.io/badge/twitter-@musabk05-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/musabk05)
+[![Instagram](https://img.shields.io/badge/instagram-musabk__00-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/musabk__00)
+[![LeetCode](https://img.shields.io/badge/leetcode-musab2209-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/musab2209)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=musab05&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=musab05&theme=dark&hide_border=true&background=0d1117" />
