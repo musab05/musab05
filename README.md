@@ -66,7 +66,7 @@ currently deep in a rust-based SQL engine & a unity survival game
 ## 📬 reach me
 
 [![Email](https://img.shields.io/badge/email-musab05ahs@gmail.com-black?style=flat)](mailto:musab05ahs@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-@musabk05-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/musabk05)
+[![Twitter](https://img.shields.io/badge/twitter-@musabk05-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/KhanMusab7)
 [![Instagram](https://img.shields.io/badge/instagram-musabk__00-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/musabk__00)
 [![LeetCode](https://img.shields.io/badge/leetcode-musab2209-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/musab2209)
 
