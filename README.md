@@ -163,7 +163,7 @@ Blogging platform with video blog support
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🗺️ roadmap
 
