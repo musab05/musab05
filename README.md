@@ -108,7 +108,7 @@ Full-featured blogging platform with rich text and **video blog support**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=musab05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=musab05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=musab05&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
 
 <br/>
